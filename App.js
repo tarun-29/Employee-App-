@@ -15,10 +15,8 @@ class App extends Component{
       apiKey: "AIzaSyBvW66e2EltcuQFQ4UvJQmh-tYHVwL60U8",
       authDomain: "manager-99c29.firebaseapp.com",
       databaseURL: "https://manager-99c29.firebaseio.com",
-      projectId: "manager-99c29",
       storageBucket: "manager-99c29.appspot.com",
       messagingSenderId: "704442948253",
-      appId: "1:704442948253:web:f549561a98cb8994"
     };
     firebase.initializeApp(firebaseConfig);
   }
